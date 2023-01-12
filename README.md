@@ -27,3 +27,5 @@
   <img src="https://img.shields.io/badge/fontawesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white">
   <br>
 </div>
+
+![bi1004's GitHub stats](https://github-readme-stats.vercel.app/api?username=bi1004&show_icons=true)
