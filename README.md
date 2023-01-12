@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=250&section=header&text=bi1004 %20GitHub&fontSize=70&animation=scaleIn)
+![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=250&section=header&text=bi1004%20GitHub&fontSize=70&animation=scaleIn)
 
 <div align=center><h1>📚 STACKS</h1></div>
 
