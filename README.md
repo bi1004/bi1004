@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=250&section=header&text=bi1004%20GitHub!&fontSize=70&animation=scaleIn)
 <div align=center>
-	<h3>📚 Tech Stack 📚</h3>
+	<h3><b>📚 Tech Stack 📚</h3>
 	<p>✨ Platforms & Languages ✨</p>
 </div>
 <div align="center">
