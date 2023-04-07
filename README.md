@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=250&section=header&text=bi1004%20GitHub!&fontSize=70&animation=scaleIn)
 <div align=center>
 	<h3><b>📚 Tech Stack 📚</h3>
-	<p>✨ Platforms & Languages ✨</p>
+	<p><b> ✨ Platforms & Languages ✨</p>
 </div>
 <div align="center">
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&logoColor=white" />
@@ -21,7 +21,7 @@
 </div>
 <br>
 <div align=center>
-	<p>🛠 Tools 🛠</p>
+	<p><b>🛠 Tools 🛠</p>
 </div>
 <div align=center>
 	<img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat&logo=EclipseIDE&logoColor=white" />
@@ -35,7 +35,7 @@
 </div>
 <br>
 <div align=center>
-	<p>🎨 SNS & Portfolio 🎨</p>
+	<p><b>🎨 SNS & Portfolio 🎨</p>
 </div>
 <div align=center>
 	<a href="#">
